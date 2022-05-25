@@ -1,0 +1,21 @@
+[submodule "react17-without-automatic-batching"]
+	path = react17-without-automatic-batching
+	url = https://github.com/artidata/react17-without-automatic-batching
+[submodule "react18-with-automatic-batching"]
+	path = react18-with-automatic-batching
+	url = https://github.com/artidata/react18-with-automatic-batching
+[submodule "scrollIntoView"]
+	path = scrollIntoView
+	url = https://github.com/artidata/scrollIntoView
+[submodule "amplify-i18n"]
+	path = amplify-i18n
+	url = https://github.com/artidata/amplify-i18n
+[submodule "styling-mui-datepicker"]
+	path = styling-mui-datepicker
+	url = https://github.com/artidata/styling-mui-datepicker
+[submodule "mouse-coordinate"]
+	path = mouse-coordinate
+	url = https://github.com/artidata/mouse-coordinate
+[submodule "slot-react-spring"]
+	path = slot-react-spring
+	url = https://github.com/artidata/slot-react-spring
