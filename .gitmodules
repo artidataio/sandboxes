@@ -19,3 +19,6 @@
 [submodule "slot-react-spring"]
 	path = slot-react-spring
 	url = https://github.com/artidata/slot-react-spring
+[submodule "mui-v5-stack-outlier"]
+	path = mui-v5-stack-outlier
+	url = https://github.com/artidata/mui-v5-stack-outlier
