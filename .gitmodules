@@ -22,3 +22,6 @@
 [submodule "mui-v5-stack-outlier"]
 	path = mui-v5-stack-outlier
 	url = https://github.com/artidata/mui-v5-stack-outlier
+[submodule "svg-to-png-or-svg"]
+	path = svg-to-png-or-svg
+	url = https://github.com/artidata/svg-to-png-or-svg
