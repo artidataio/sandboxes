@@ -10,3 +10,6 @@ It is linked to the repo and sandbox:
 7. Slot machine prototype with react-spring. [[repo](https://github.com/artidata/slot-react-spring)][[sandbox](https://codesandbox.io/s/github/artidata/slot-react-spring)]
 8. Adding outlier margin to the child component in MUI V5 Stack. [[repo](https://github.com/artidata/mui-v5-stack-outlier)][[sandbox](https://codesandbox.io/s/github/artidata/mui-v5-stack-outlier)] 
 9. Download svg node as png or svg file. [[repo](https://github.com/artidata/svg-to-png-or-svg)][[sandbox](https://codesandbox.io/s/github/artidata/svg-to-png-or-svg)]
+10. You do not need form tag 1. [[repo](https://github.com/artidata/form-tag-obsolete-pre)][[sandbox](https://codesandbox.io/s/github/artidata/form-tag-obsolete-pre)]
+11. You do not need form tag 2. [[repo](https://github.com/artidata/form-tag-obsolete)][[sandbox](https://codesandbox.io/s/github/artidata/form-tag-obsolete)]
+12. You do not need form tag 3 (explained). [[repo](https://github.com/artidata/form-tag-inconsistency)][[sandbox](https://codesandbox.io/s/github/artidata/form-tag-inconsistency)]

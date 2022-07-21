@@ -25,3 +25,12 @@
 [submodule "svg-to-png-or-svg"]
 	path = svg-to-png-or-svg
 	url = https://github.com/artidata/svg-to-png-or-svg
+[submodule "form-tag-inconsistency"]
+	path = form-tag-inconsistency
+	url = git@github.com:artidata/form-tag-inconsistency.git
+[submodule "form-tag-obsolete-pre"]
+	path = form-tag-obsolete-pre
+	url = git@github.com:artidata/form-tag-obsolete-pre.git
+[submodule "form-tag-obsolete"]
+	path = form-tag-obsolete
+	url = git@github.com:artidata/form-tag-obsolete.git
