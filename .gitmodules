@@ -34,3 +34,6 @@
 [submodule "form-tag-obsolete"]
 	path = form-tag-obsolete
 	url = git@github.com:artidata/form-tag-obsolete.git
+[submodule "fbgroup-table-puzzle"]
+	path = fbgroup-table-puzzle
+	url = git@github.com:artidata/fbgroup-table-puzzle.git
