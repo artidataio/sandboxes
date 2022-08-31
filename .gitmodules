@@ -37,3 +37,6 @@
 [submodule "fbgroup-table-puzzle"]
 	path = fbgroup-table-puzzle
 	url = git@github.com:artidata/fbgroup-table-puzzle.git
+[submodule "pes-kominfo-table"]
+	path = pes-kominfo-table
+	url = https://github.com/artidata/pes-kominfo-table
