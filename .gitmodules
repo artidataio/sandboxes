@@ -40,3 +40,6 @@
 [submodule "pes-kominfo-table"]
 	path = pes-kominfo-table
 	url = https://github.com/artidata/pes-kominfo-table
+[submodule "chart-transition-react-spring"]
+	path = chart-transition-react-spring
+	url = https://github.com/artidata/chart-transition-react-spring

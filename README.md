@@ -15,3 +15,4 @@ It is linked to the repo and sandbox:
 12. You do not need form tag 3 (explained). [[repo](https://github.com/artidata/form-tag-inconsistency)][[sandbox](https://codesandbox.io/s/github/artidata/form-tag-inconsistency)]
 13. FB Group table puzzle with responsive feature. [[repo](https://github.com/artidata/fbgroup-table-puzzle)][[sandbox](https://codesandbox.io/s/github/artidata/fbgroup-table-puzzle)]
 14. Rebuilding PSE Kominfo table which has paginated query. [[repo](https://github.com/artidata/pes-kominfo-table)][[sandbox](https://codesandbox.io/s/github/artidata/pes-kominfo-table)]
+15. Animating chart transition with react-spring library. [[repo](https://github.com/artidata/chart-transition-react-spring)][[sandbox](https://codesandbox.io/s/github/artidata/chart-transition-react-spring)]
