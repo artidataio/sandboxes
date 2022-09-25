@@ -43,3 +43,12 @@
 [submodule "chart-transition-react-spring"]
 	path = chart-transition-react-spring
 	url = https://github.com/artidata/chart-transition-react-spring
+[submodule "chart-transition-visx-xychart"]
+	path = chart-transition-visx-xychart
+	url = https://github.com/artidata/chart-transition-visx-xychart
+[submodule "fading-modal-react-spring"]
+	path = fading-modal-react-spring
+	url = https://github.com/artidata/fading-modal-react-spring
+[submodule "minimal-accordion-react-spring"]
+	path = minimal-accordion-react-spring
+	url = https://github.com/artidata/minimal-accordion-react-spring
