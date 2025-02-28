@@ -21,3 +21,4 @@ It is linked to the repo and sandbox:
 17. Fading Modal with react-spring. [[repo](https://github.com/artidata/fading-modal-react-spring)][[sandbox](https://codesandbox.io/s/github/artidata/fading-modal-react-spring)]
 18. Minimal Accordion with react-spring. [[repo](https://github.com/artidata/minimal-accordion-react-spring)][[sandbox](https://codesandbox.io/s/github/artidata/minimal-accordion-react-spring)]
 19. Reproducible [useBoop](https://www.joshwcomeau.com/snippets/react-hooks/use-boop/) by joshwcomeau. [[sandbox](https://codesandbox.io/p/sandbox/useboop-5gjmck)]
+20. Randomized 3D coin spin with React Three Fiber. [[sandbox](https://codesandbox.io/p/sandbox/coin-spin-m4kmv4)]
